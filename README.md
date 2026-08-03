@@ -19,3 +19,10 @@ Repository được tạo để thực hiện bài thi cuối kỳ môn Quản l
 ### Mô tả
 
 Hệ thống hỗ trợ khách hàng tìm kiếm phim, xem lịch chiếu, lựa chọn ghế, đặt vé và thanh toán trực tuyến. Đồng thời giúp rạp chiếu phim quản lý suất chiếu và doanh thu hiệu quả.
+
+## Mục tiêu
+
+- Thực hành Git và GitHub.
+- Sử dụng feature branch.
+- Commit theo Conventional Commits.
+- Tạo Pull Request và merge vào nhánh main.
