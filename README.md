@@ -11,3 +11,11 @@ Repository phục vụ bài thi cuối kỳ môn Quản lý dự án phần mề
 - Sở thích cá nhân: Chơi game, nghe nhạc và xem phim vào cuối tuần.
 
 Repository được tạo để thực hiện bài thi cuối kỳ môn Quản lý dự án phần mềm.
+
+## Dự án giả định
+
+**Tên dự án:** Hệ thống bán vé xem phim online
+
+### Mô tả
+
+Hệ thống hỗ trợ khách hàng tìm kiếm phim, xem lịch chiếu, lựa chọn ghế, đặt vé và thanh toán trực tuyến. Đồng thời giúp rạp chiếu phim quản lý suất chiếu và doanh thu hiệu quả.
